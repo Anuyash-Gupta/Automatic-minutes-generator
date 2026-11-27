@@ -1,5 +1,5 @@
 ---
-title: AI Meeting Minutes Generator
+title: Meeting Minutes Generator
 emoji: 🗒️
 colorFrom: indigo
 colorTo: teal
@@ -10,7 +10,7 @@ pinned: false
 license: mit
 ---
 
-# 🗒️ AI Meeting Minutes Generator
+# 🗒️ Meeting Minutes Generator
 
 Transcribe meeting audio or video with **OpenAI Whisper** and turn it into structured, professional meeting minutes with **Meta Llama 3.2 3B Instruct**.
 
